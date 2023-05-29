@@ -1,5 +1,5 @@
 class main {
 
-	psvm (String args[])
+	psvm (String args...)
 
 }
