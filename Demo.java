@@ -1,5 +1,5 @@
 class main {
 
-	psvm (String args...)
+	public static void main (String args...)
 
 }
